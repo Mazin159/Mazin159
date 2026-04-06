@@ -1,4 +1,11 @@
 ## Hi there 👋
+- C#
+- .NET / ASP.NET Core
+- Web API
+- Entity Framework Core
+- SQL Server
+- LINQ
+- OOP & SOLID Principles
 
 <!--
 **Mazin159/Mazin159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
