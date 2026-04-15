@@ -1,12 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/eng-ahmed-mohamed-dev/eng-ahmed-mohamed-dev/main/hello-coders.gif"
-    width="60%"
-    alt="Hello Coders"
-  />
-</p>
 
 <h1>Hi 👋 I'm Mazin Mohammed</h1>
 
@@ -15,11 +8,7 @@ Programming Fundamentals with C++ <br/>
 Problem Solver • Solved <b>354+</b> Programming Problems
 </h3>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=eng-ahmed-mohamed-dev&style=flat&color=orange&label=PROFILE+VIEWS" />
-</p>
 
-</div>
 
 ---
 
