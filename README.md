@@ -4,13 +4,10 @@
 <h1>Hi 👋 I'm Mazin Mohammed</h1>
 
 <h3>
-Programming Fundamentals with C++ <br/>
-Problem Solver • Solved <b>354+</b> Programming Problems
+Backend Developer | .NET (C#, SQL Server) | C++  
+Problem Solver • 354+ Problems Solved
 </h3>
 
-
-
----
 - 
 ## 👨‍💻 About Me
 <img align="right"
