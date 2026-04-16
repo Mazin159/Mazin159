@@ -17,6 +17,7 @@ Problem Solver • Solved <b>354+</b> Programming Problems
 - <img align="right"
        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
        width="120" />
+       
 - ✅ Completed **Structured Programming**
 - 🧠 Solved **354+ Programming Problems**
 - 🎯 Strong focus on **logic building & problem solving**
