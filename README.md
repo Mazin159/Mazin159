@@ -11,18 +11,25 @@ Problem Solver • Solved <b>354+</b> Programming Problems
 
 
 ---
-
+- 
 ## 👨‍💻 About Me
-- 👨‍🎓 Learning **Programming Fundamentals using C++**
-- <img align="right"
+<img align="right"
        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
        width="120" />
        
-- ✅ Completed **Structured Programming**
-- 🧠 Solved **354+ Programming Problems**
-- 🎯 Strong focus on **logic building & problem solving**
-- ✍️ Writing **clean & readable code**
-- 🚀 Planning to learn **OOP & Data Structures** next
+* 👨‍🎓 Computer Science student with strong passion for backend development
+
+* 💻 Experienced in **C++ fundamentals, problem solving, and building structured applications**
+
+* 🧠 Solved **354+ programming problems**, developing strong analytical thinking
+
+* 🚀 Currently specializing in **Backend Development using .NET (C#, SQL Server)**
+
+* 🔧 Learning **Databases, APIs, and real-world system design**
+
+* 🎯 Focused on becoming a **skilled Backend Engineer**
+
+* 📈 Committed to continuous improvement, clean code practices, and building real-world projects
 
 ---
 
@@ -34,13 +41,14 @@ Problem Solver • Solved <b>354+</b> Programming Problems
 
 ---
 
-## 🛠️ Tools & Editors
+## 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
-
 ---
 
 ## 📚 Current Learning Path
